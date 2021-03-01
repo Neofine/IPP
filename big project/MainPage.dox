@@ -1,0 +1,15 @@
+/**
+@mainpage Dokumentacja zadania gamma
+
+### Opis programu
+
+Program implementuje grę gamma, tryb wsadowy jak i tryb interaktywny do niej,
+opis jak i zasady gry znajdują się na moodlu, dodatkowo, czego nie ma w 
+opisie dodane zostały w trybie interaktywnym ostrzeżenia, gdy gracz
+próbował wykonać niedozwolony ruch, wypisywane są koordynaty oraz 
+różne rodzaje kolorów zostały tam dodane, podczas ruchu gracza dodatkowo
+jego pionki zostają pokolorowane na wyróżniający się kolor żeby łatwiej
+było wykonać ruch. Zostały poprawione funkcje które zostały wspomniane w
+najnowszej części zadania na moodlu.
+
+*/
